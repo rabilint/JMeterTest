@@ -1,0 +1,11 @@
+p_company,p_name,p_address,p_postal,p_city,p_country,p_phone,p_email,p_comment
+IT Solutions,Oleksandr Kovalenko,Shevchenka St 10,01001,Kyiv,UA,0501234567,olex.koval@testmail.com,Call before delivery
+Creative Design,Iryna Melnyk,Khreshchatyk 25,01002,Kyiv,UA,0679876543,iryna.melnyk@demomail.net,Gate code 1234
+Boyko Logistics,Andrii Boyko,Franka St 5,79000,Lviv,UA,0935557788,a.boyko88@fakemail.org,Leave at reception
+Beauty Salon,Olena Kravchenko,Soborna Ave 100,21000,Vinnytsia,UA,0662223344,o.kravchenko@webtest.ua,
+Bondar Eng,Serhii Bondar,Sumska St 40,61000,Kharkiv,UA,0631112299,serg.bond@testprovider.com,Do not ring doorbell
+Freelance,Tetiana Tkachenko,Deribasivska 12,65000,Odesa,UA,0998887766,tanya.tkach@mailservice.io,
+Agro Trade,Mykola Shevchuk,Myru Ave 50,49000,Dnipro,UA,0974445566,mykola.sh@autotest.net,Delivery after 6 PM
+SoftServe,Yuliia Oliinyk,Volodymyrska 5,01030,Kyiv,UA,0503332211,y.oliinyk@qatester.com,Office 305
+Construction Pro,Dmytro Lysenko,Centralna 1,36000,Poltava,UA,0687779900,d.lysenko@loadtest.org,Fragile
+Marketing Group,Nataliia Sydorenko,Haharina 15,18000,Cherkasy,UA,0956664433,nata.sydor@performancetest.ua,
